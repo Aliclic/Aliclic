@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 # Alic Victor
 
 ### Olá pessoal 👋 
-<br>
 
 ## 📊 Statistics
 
